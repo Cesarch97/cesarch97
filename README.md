@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 este es un repositorio muestra para el currso de mes de datos:D
 
 <!--
 **Cesarch97/cesarch97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
